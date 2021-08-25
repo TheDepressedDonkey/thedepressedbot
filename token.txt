@@ -1,2 +1,0 @@
-# .env
-TOKEN='ODc3ODkwMzQzODQ3MjE5MjIw.YR5NGA.f4_UfgVcHxsU-Wd0qDuln1hlZrA'
